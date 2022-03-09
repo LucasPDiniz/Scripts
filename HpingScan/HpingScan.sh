@@ -1,5 +1,5 @@
 #!/bin/bash
-#Network scanner using hping
+#Network scanner using hping#
 
 if [ "$1" == "" ]
 then
