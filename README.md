@@ -3,7 +3,7 @@
 
 ### 🛠 Languages 🛠
 
-* BashSCript
+* BashScript
 * Python
 * PowerShell
 * C
