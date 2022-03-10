@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# .\script.py
+
 import socket, sys
 
 ip = raw_input("Enter IP:")
