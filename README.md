@@ -11,3 +11,7 @@
 <h4 align="center"> 
 	🚧  Loading ...  🚧
 </h4>
+
+<p align="center">
+  <img width="420" height="260" src="https://c.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif">
+</p>
